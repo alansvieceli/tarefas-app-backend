@@ -7,3 +7,11 @@ npm -i --save-dev -E nodemon@1.19.1
 npm run dev
 
 npm run production
+
+GET - http://localhost:3003/api/tarefas
+POST - http://localhost:3003/api/tarefas
+PUT - http://localhost:3003/api/tarefas/{id}
+DELETE - http://localhost:3003/api/tarefas/{id}
+
+node-restful
+https://github.com/baugarten/node-restful
