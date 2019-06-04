@@ -15,3 +15,10 @@ DELETE - http://localhost:3003/api/tarefas/{id}
 
 node-restful
 https://github.com/baugarten/node-restful
+
+pm2
+http://pm2.keymetrics.io/
+(npm i pm2 -g  ou   ./node_modules/.bin/pm2)
+
+pm2 monit 
+pm2 status
