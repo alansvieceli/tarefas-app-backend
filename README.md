@@ -22,3 +22,6 @@ http://pm2.keymetrics.io/
 
 pm2 monit 
 pm2 status
+pm2 stop    
+pm2 restart 
+pm2 delete  
